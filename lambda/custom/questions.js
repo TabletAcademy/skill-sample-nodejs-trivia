@@ -1,4 +1,5 @@
-/**
+module.exports = {
+  /**
    * When editing your questions pay attention to your punctuation.
    * Make sure you use question marks.
    * Make sure the first answer is the correct one.
